@@ -9,4 +9,4 @@
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2024 Воронов Игорь Сергеевич
+Copyright (c) 2024 Воронов Игорь Сергеевич, Левицкая Александра Ивановна
